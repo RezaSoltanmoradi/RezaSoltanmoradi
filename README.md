@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ... React.js
 - 🤔 I’m looking for help with ... everyone wants to learn React.js 
 - 💬 Ask me about Anything 
-- 📫 How to reach me: Go to the Contact Me Section
+- 📫 How to reach me ... Go to the Contact Me Section
 - 😄 Pronouns: ... he/ him 
 - ⚡ Fun fact: ... I am half finish 
 
