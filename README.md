@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ... React.js
 - 🤔 I’m looking for help with ... everyone wants to learn React.js 
 - 💬 Ask me about Anything 
-- 📫 How to reach me: by Telegram: https://t.me/R_soltanmoradi_1995
+- 📫 How to reach me: Go to the Contact Me Section
 - 😄 Pronouns: ... he/ him 
 - ⚡ Fun fact: ... I am half finish 
 
@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 <a href="mailto://rezasoltanmoradi1995@gmail.com/">
   <img align="left" alt="Reza's Email" width="22px" src="https://img.icons8.com/fluent/48/000000/gmail.png" />
 </a>
-<a href="mailto://rezasoltanmoradi1995@gmail.com/">
-  <img align="left" alt="Reza's Email" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" />
+<a href="https://t.me/R_soltanmoradi_1995/">
+  <img align="left" alt="Reza's Telegram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" />
 </a>
 <br />
