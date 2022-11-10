@@ -2,12 +2,10 @@
 <h1 align="left">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&width=600&color=F7F7F7&background=FFFFFF00&width=435&lines=Hi%2C+Welcome+To+My+Github+Page;I'm+Reza+Soltanmoradi+;Nice+To+See+You" alt="Typing SVG" /></a>
 </h1>
-<h2>
+<h3>
 👋 Here is What I'm Working on! 
-</h2>
- 
+</h3>
 <br />
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Next.js 
 - 🌱 I’m currently learning React.js
