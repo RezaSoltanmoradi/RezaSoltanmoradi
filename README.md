@@ -1,18 +1,4 @@
 
-### hey there for contact with me:
-<a href="https://www.instagram.com/r_s_moradi/">
-  <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
-<a href="https://discord.gg/6689">
-  <img align="left" alt="Reza's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-<a href="https://www.linkedin.com/in/abhisheknaiidu/">
-  <img align="left" alt="Reza's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="mailto://rezasoltanmoradi1995@gmail.com/">
-  <img align="left" alt="Reza's Email" width="22px" src="https://img.icons8.com/fluent/48/000000/gmail.png" />
-</a>
-<br />
 
 ### Here is What  I'm Working on! 👋
 
@@ -41,4 +27,19 @@ Here are some ideas to get you started:
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />
 <br />
+<br />
+
+### contact  me:
+<a href="https://www.instagram.com/r_s_moradi/">
+  <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+</a>
+<a href="https://discord.gg/6689">
+  <img align="left" alt="Reza's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>
+<a href="https://www.linkedin.com/in/abhisheknaiidu/">
+  <img align="left" alt="Reza's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="mailto://rezasoltanmoradi1995@gmail.com/">
+  <img align="left" alt="Reza's Email" width="22px" src="https://img.icons8.com/fluent/48/000000/gmail.png" />
+</a>
 <br />
