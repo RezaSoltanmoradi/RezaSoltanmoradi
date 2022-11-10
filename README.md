@@ -1,7 +1,4 @@
-<!--<h3 align="center">
-![image](https://user-images.githubusercontent.com/6764957/87082196-3418a980-c25d-11ea-9987-0d9787d54100.png)
-</h3> -->
-[![160744959694494596](https://user-images.githubusercontent.com/6764957/101521273-94ed0f00-39c0-11eb-9721-1fb49097a171.png)](https://github.com/RezaSoltanmoradi?tab=repositories)
+
 ### Here is What  I'm Working on! 👋
 
 Here are some ideas to get you started:
@@ -14,3 +11,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: by Telegram: https://t.me/R_soltanmoradi_1995
 - 😄 Pronouns: ... he/ him 
 - ⚡ Fun fact: ... I am half finish 
+<!-- comment out for now while https://github.com/jstrieb/github-stats/issues/7 is going on 
+![](https://github.com/sw-yx/sw-yx/blob/master/generated/overview.svg)
+![](https://github.com/sw-yx/sw-yx/blob/master/generated/languages.svg)
+-->
