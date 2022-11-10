@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ... he/ him 
 - ⚡ Fun fact: ... I am half finish 
 
-### Languages and Tools:
+### 📚Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/r_s_moradi/">
   <img align="left" alt="Reza's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
-<a href="https://discord.gg/6689">
+<a href="https://discord.gg/rezasoltanmoradi#6689">
   <img align="left" alt="Reza's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 <a href="https://www.linkedin.com/in/rezasoltanmoradi/">
